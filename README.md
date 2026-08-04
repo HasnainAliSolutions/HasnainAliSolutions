@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hi there 👋 I'm Hasnain Ali
 
-<!--
-**HasnainAliSolutions/HasnainAliSolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer • AI Student • Founder & CEO of Hasnain Ali Solutions
 
-Here are some ideas to get you started:
+I build modern digital solutions that help businesses grow online through high-quality software, websites, mobile applications, and AI-powered automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 💻 Full Stack Developer
+* 🤖 AI Student
+* 🏢 Founder & CEO of Hasnain Ali Solutions
+* 📍 Karachi, Pakistan
+* 🌱 Currently learning Artificial Intelligence & Advanced Software Engineering
+* 🎯 Passionate about building scalable, secure, and user-friendly applications
+
+---
+
+## 💼 What I Build
+
+* 🌐 Business Websites
+* 📱 Mobile Applications
+* ⚙️ Custom Software
+* 🤖 AI Solutions
+* 🚀 Business Automation
+* 📈 SEO-Friendly Web Applications
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* React
+* Angular
+* Bootstrap
+* Tailwind CSS
+
+### Backend
+
+* PHP
+* Laravel
+* Python
+
+### Mobile
+
+* Flutter
+
+### Databases
+
+* MySQL
+* PostgreSQL
+* Firebase
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Android Studio
+* Figma
+
+---
+
+## 🌍 Portfolio
+
+**Website**
+
+https://hasnain-ali-solutions.vercel.app
+
+---
+
+## 📫 Connect With Me
+
+* 🌐 Website: https://hasnain-ali-solutions.vercel.app
+* 📧 Email: [hasnain.ali.solutions@gmail.com](mailto:hasnain.ali.solutions@gmail.com)
+
+---
+
+## ⚡ Motto
+
+> Innovate • Develop • Grow
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
